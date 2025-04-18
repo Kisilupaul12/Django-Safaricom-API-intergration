@@ -45,7 +45,7 @@ def pay(request):
             "PhoneNumber": phone,
             "CallBackURL": "https://sandbox.safaricom.co.ke/mpesa/",
             "AccountReference": "Aladeen_Ks",
-            "TransactionDesc": "Manchester United is the biggest club in the world"
+            "TransactionDesc": "Manchester United is the biggest club in the worldkml,dbpdnglp[dgnpythopy"
         }
 
         
